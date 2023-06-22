@@ -1,0 +1,4 @@
+Name: Tamara
+Age: 28
+Animal: 1
+Salary: 500$
